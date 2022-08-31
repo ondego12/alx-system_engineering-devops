@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdi -p welcome/ welcome/to/ welcome/to/school
